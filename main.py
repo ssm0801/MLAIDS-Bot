@@ -26,4 +26,5 @@ def mlaids_bot(hashtag, delay):
         time.sleep(delay)
 
 
-mlaids_bot("#Sudhanshu", 10)
+# recommended delay is 10
+mlaids_bot("#Sudhanshu", delay=10)
