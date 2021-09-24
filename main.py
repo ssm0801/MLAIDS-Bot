@@ -27,4 +27,4 @@ def mlaids_bot(hashtag, delay):
 
 
 # recommended delay is 10
-mlaids_bot("#Sudhanshu", delay=10)
+mlaids_bot(hashtag="", delay=10)
