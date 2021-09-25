@@ -1,4 +1,4 @@
-# MLAIDS-Bot
+# Tweet_Repeat
 
 ### Twitter API :-
 - You need to create developer Twitter account from [here](https://developer.twitter.com/en/portal/dashboard) and then you will get all API keys needed for bot
