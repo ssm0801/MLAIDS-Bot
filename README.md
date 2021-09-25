@@ -1,5 +1,7 @@
 # Tweet_Repeat
 
+It will retweet the tweet which contains the hashtag provided by you in code.
+
 ### Twitter API :-
 - You need to create developer Twitter account from [here](https://developer.twitter.com/en/portal/dashboard) and then you will get all API keys needed for bot
 - Use that account to log in developer account which will retweet other users tweets
