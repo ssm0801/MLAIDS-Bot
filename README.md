@@ -1,4 +1,4 @@
-# Tweet_Repeat
+# Tweet_Repeater
 
 It will retweet the tweet which contains the hashtag provided by you in code.
 
